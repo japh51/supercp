@@ -1,0 +1,2 @@
+# supercp
+Raspberry cp script
