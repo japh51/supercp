@@ -1,2 +1,2 @@
 # supercp
-Raspberry cp script
+Simple script to copy file/folder to another location
